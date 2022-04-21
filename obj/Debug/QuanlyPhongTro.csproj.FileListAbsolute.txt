@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\PBL3\QuanlyPhongTro\obj\Debug\QuanlyPhongTro.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\PBL3\QuanlyPhongTro\obj\Debug\QuanlyPhongTro.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Desktop\PBL3\QuanlyPhongTro\obj\Debug\QuanlyPhongTro.Properties.Resources.resources
+C:\Users\ACER\Desktop\PBL3\QuanlyPhongTro\obj\Debug\QuanlyPhongTro.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\PBL3\QuanlyPhongTro\obj\Debug\QuanlyPhongTro.csproj.CoreCompileInputs.cache
